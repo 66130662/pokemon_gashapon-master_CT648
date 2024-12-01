@@ -207,7 +207,7 @@ Dockerfile (ทั้งใน Path ของ backend และ frontend)
 - เชื่อมต่อไปยังเซิร์ฟเวอร์ ใช้ SSH เพื่อเข้าถึงเซิร์ฟเวอร์ (เช่น AWS EC2)
 - Clone โปรเจกต์จาก GitHub ลงเซิร์ฟเวอร์
      ```
-        git clone https://github.com/66130662/CT648_pokemon_gashapon-master.git
+        git clone https://github.com/66130662/pokemon_gashapon-master_CT648.git
      ```
    
     ```
