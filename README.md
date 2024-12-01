@@ -4,10 +4,6 @@
 ![Group 3 (1)](https://github.com/user-attachments/assets/65191016-07b8-48d5-a5e0-7a70f51abb43)
 
 
-![diagrame_project_smart_door_lock(1)-หน้า-2 drawio](https://github.com/user-attachments/assets/6abbdfb1-b3b7-476f-b433-0781642ba762)
-
-
-
 โปรเจคถูกออกแบบมาประกอบด้วย 3 ส่วนหลัก:
 
 1. **Frontend**: พัฒนาด้วย React TypeScript เพื่อสร้าง UI ที่ตอบสนองและมีประสิทธิภาพ
@@ -49,6 +45,7 @@ rare: 10%
 - ดึงคอลเล็กชันโปเกมอนทั้งหมดของผู้ใช้ที่มีในตาราง user_pokemon และ pokemon พร้อมดึงรูปภาพที่มีอยู่ในตาราง pic_poke มาด้วย เพื่อนำไปแสดงผลในหน้าคอลเล็กชันของผู้ใช้
 #### GET /api/user-pokemon-points
 - ดึงข้อมูล power_up_points ของโปเกมอนที่ผู้ใช้สะสมไว้ โดยใช้ user_id และ pokemon_id เป็นตัวระบุเพื่อให้ผู้ใช้ทราบข้อมูลค่าพลังสะสมของโปเกมอนแต่ละตัว
+![diagrame_project_smart_door_lock(1)-หน้า-2 drawio](https://github.com/user-attachments/assets/c325f1bb-4d7b-4b93-8502-9a0a80f90a57)
 
 # 3. การใช้งาน init.sql
 ไฟล์ init.sql ใช้สำหรับการสร้างโครงสร้างฐานข้อมูลเริ่มต้น โดยมีการสร้างตารางดังนี้
