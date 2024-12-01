@@ -1,5 +1,5 @@
 ## 1. หลักการพัฒนา ด้วย React TypeScript, Node.js Backend และ PostgreSQL
-<img width="940" alt="Screenshot 2567-12-01 at 18 49 41" src="https://github.com/user-attachments/assets/b7713252-6ec3-442b-80c6-842e3cc6c828">
+<img width="805" alt="Screenshot 2567-12-01 at 20 10 04" src="https://github.com/user-attachments/assets/7595901a-8fdd-4cc8-b26f-8109a0c36686">
 
 ![Group 3 (1)](https://github.com/user-attachments/assets/65191016-07b8-48d5-a5e0-7a70f51abb43)
 
@@ -225,5 +225,5 @@ Dockerfile (ทั้งใน Path ของ backend และ frontend)
 ## 4.4 เข้าใช้งาน
 - เข้าใช้งานหน้าเว็บโดย URL หรือ IP ของเครื่องที่ให้รัน Frontend: http://localhost:3000
 - Backend: http://localhost:3001
-- http://13.215.67.233:3000/login
+- http://13.215.67.233:80/login
 
