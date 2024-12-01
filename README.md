@@ -144,7 +144,8 @@ Frontend
         randomCard: เก็บข้อมูล Pokémon ที่สุ่มได้
         dropRates: อัตราการดรอปของ Pokémon
         volume, isMuted: ควบคุมเสียงพื้นหลัง
-<img width="1430" alt="Screenshot 2567-11-09 at 15 14 52" src="https://github.com/user-attachments/assets/5ec6bbd0-9f0e-427c-b7ad-b659d4552c8b">
+<img width="1440" alt="Screenshot 2567-12-01 at 15 02 14" src="https://github.com/user-attachments/assets/e9fdfbb7-5baa-4b88-9ee2-888c2548bfe5">
+
 
 Backend
    - ใช้ Express.js สำหรับสร้าง RESTful API
