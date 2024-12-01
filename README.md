@@ -1,5 +1,6 @@
 ## 1. หลักการพัฒนา ด้วย React TypeScript, Node.js Backend และ PostgreSQL
-![Group 3](https://github.com/user-attachments/assets/feba9075-b8f8-4e7b-8f7f-7a0163e926f6)
+![Group 3 (1)](https://github.com/user-attachments/assets/65191016-07b8-48d5-a5e0-7a70f51abb43)
+
 
 ![diagrame_project_smart_door_lock(1)-หน้า-2 drawio](https://github.com/user-attachments/assets/6abbdfb1-b3b7-476f-b433-0781642ba762)
 
