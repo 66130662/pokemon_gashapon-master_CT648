@@ -1,4 +1,6 @@
 ## 1. หลักการพัฒนา ด้วย React TypeScript, Node.js Backend และ PostgreSQL
+<img width="940" alt="Screenshot 2567-12-01 at 18 49 41" src="https://github.com/user-attachments/assets/b7713252-6ec3-442b-80c6-842e3cc6c828">
+
 ![Group 3 (1)](https://github.com/user-attachments/assets/65191016-07b8-48d5-a5e0-7a70f51abb43)
 
 
