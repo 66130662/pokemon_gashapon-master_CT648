@@ -158,7 +158,6 @@ Backend
 Database
    - ใช้ PostgreSQL
    - มีการสร้างตารางและความสัมพันธ์ตามที่กำหนดใน init.sql
-     <img width="695" alt="Screenshot 2567-11-08 at 22 21 18" src="https://github.com/user-attachments/assets/edf247b3-31eb-4590-9e2a-ea890134a346">
 
      <img width="979" alt="Screenshot 2567-11-09 at 17 10 49" src="https://github.com/user-attachments/assets/d7e80a6d-c6f2-48ff-899c-85e0fe7943fe">
 
